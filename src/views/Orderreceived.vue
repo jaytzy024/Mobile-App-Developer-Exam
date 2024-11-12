@@ -1,4 +1,5 @@
 <template>
+  <ion-content class="ion-padding fade-in">
   <div class="content">
     <div class="container">
       <div>
@@ -24,6 +25,7 @@
       <a href="/home" class="back-link">Back to Home</a>
     </div>
   </div>
+  </ion-content>
 </template>
 
 <script lang="ts">
